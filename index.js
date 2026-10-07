@@ -720,5 +720,5 @@ function initBuffers(
   return {
     position: positionBuffer,
     color: colorBuffer
-  };
+};
 }
